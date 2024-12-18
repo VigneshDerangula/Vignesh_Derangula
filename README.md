@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vigneshderangula&label=Profile%20views&color=0e75b6&style=flat" alt="vigneshderangula" /> </p>
 
-- 🔭 I’m currently working on **Building a credit card weekly dashboard with Power BI, making numbers look exciting since 2024!**
+- 🔭 I’m currently working on **Building a credit card weekly dashboard with Power BI, making numbers look exciting since 2022!**
 
-- 🌱 I’m currently learning **Kafka and PySpark – for times when SQL isn’t fast enough and data isn’t big enough. [Course link]**
+- 🌱 I’m currently learning **Kafka and PySpark – for times when SQL isn’t fast enough and data isn’t big enough. 
 
 - 👯 I’m looking to collaborate on **Cracking SQL queries and creating dashboards that make executives say, "Wow, we should get more coffee for this!**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **vigneshderangula@gmail.com**
 
-- 📄 Know about my experiences [It’s full of data success stories from my 2.5 years at Infosys as a System Engineer, where I mainly worked in Data Analytics and Data Engineering. Expect more insights than a pivot table at a spreadsheet convention!](It’s full of data success stories from my 2.5 years at Infosys as a System Engineer, where I mainly worked in Data Analytics and Data Engineering. Expect more insights than a pivot table at a spreadsheet convention!)
+- 📄 Know about my experiences [It’s full of data success stories from my 2.5 years at Infosys as a System Engineer, where I mainly worked in Data Analytics and Data Engineering. Expect more insights than a pivot table at a spreadsheet convention!]
 
 - ⚡ Fun fact **I think I am funny – or at least my SQL queries are.**
 
