@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Building a credit card weekly dashboard with Power BI, making numbers look exciting since 2022!**
 
-- 🌱 I’m currently learning **Kafka and PySpark – for times when SQL isn’t fast enough and data isn’t big enough. 
+- 🌱 I’m currently learning **Kafka and PySpark – for times when SQL isn’t fast enough and data isn’t big enough.** 
 
 - 👯 I’m looking to collaborate on **Cracking SQL queries and creating dashboards that make executives say, "Wow, we should get more coffee for this!**
 
