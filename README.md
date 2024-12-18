@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vigneshderangula&label=Profile%20views&color=0e75b6&style=flat" alt="vigneshderangula" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vigneshderangula" alt="vigneshderangula" /></a> </p>
-
 - 🔭 I’m currently working on **Building a credit card weekly dashboard with Power BI, making numbers look exciting since 2024!**
 
 - 🌱 I’m currently learning **Kafka and PySpark – for times when SQL isn’t fast enough and data isn’t big enough. [Course link]**
