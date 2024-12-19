@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **something cool 😉**
 
-- 🌱 I’m currently learning **Kafka and PySpark – for times when SQL isn’t fast enough and data isn’t big enough.**
+- 🌱 I’m currently learning **Kafka and PySpark – for times when SQL isn’t fast enough and data isn’t big enough. [Course link]**
 
 - 👨‍💻 All of my projects are available at [come for the data, stay for the pretty charts!](come for the data, stay for the pretty charts!)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vigneshderangula@gmail.com**
 
-- 📄 Know about my experiences [With 2.5 years at Infosys as a System Engineer, I specialized in Data Analytics and Data Engineering, delivering impactful solutions and driving data-driven insights across projects.](With 2.5 years at Infosys as a System Engineer, I specialized in Data Analytics and Data Engineering, delivering impactful solutions and driving data-driven insights across projects.)
+- 📄 Know about my experiences (With 2.5 years at Infosys as a System Engineer, I specialized in Data Analytics and Data Engineering, delivering impactful solutions and driving data-driven insights across projects.)
 
 - ⚡ Fun fact **I think I am funny – or at least my SQL queries are.**
 
