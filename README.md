@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **something cool 😉**
 
-- 🌱 I’m currently learning **Kafka and PySpark – for times when SQL isn’t fast enough and data isn’t big enough. [Course link]**
+- 🌱 I’m learning **Kafka and PySpark – for times when SQL isn’t fast enough and data isn’t big enough. [Course link]**
 
 - 👨‍💻 All of my projects are available at [come for the data, stay for the pretty charts!](come for the data, stay for the pretty charts!)
 
