@@ -3,21 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vigneshderangula&label=Profile%20views&color=0e75b6&style=flat" alt="vigneshderangula" /> </p>
 
-- 🔭 I’m currently working on **Building a credit card weekly dashboard with Power BI, making numbers look exciting since 2022!**
+- 🔭 I’m currently working on **something cool 😉**
 
-- 🌱 I’m currently learning **Kafka and PySpark – for times when SQL isn’t fast enough and data isn’t big enough.** 
-
-- 👯 I’m looking to collaborate on **Cracking SQL queries and creating dashboards that make executives say, "Wow, we should get more coffee for this!**
-
-- 🤝 I’m looking for help with **Understanding why my Python code runs perfectly fine until the day of the presentation.**
+- 🌱 I’m currently learning **Kafka and PySpark – for times when SQL isn’t fast enough and data isn’t big enough. [Course link]**
 
 - 👨‍💻 All of my projects are available at [come for the data, stay for the pretty charts!](come for the data, stay for the pretty charts!)
 
-- 💬 Ask me about **The time I made Excel Pivot Tables do a backflip, or how I visualized data trends that made people gasp.**
+- 💬 Ask me about **SQL, Python, Power BI, or Excel – I query all day, pivot all night, and still find time to visualize some fun! 😄**
 
 - 📫 How to reach me **vigneshderangula@gmail.com**
 
-- 📄 Know about my experiences [It’s full of data success stories from my 2.5 years at Infosys as a System Engineer, where I mainly worked in Data Analytics and Data Engineering. Expect more insights than a pivot table at a spreadsheet convention!]
+- 📄 Know about my experiences [With 2.5 years at Infosys as a System Engineer, I specialized in Data Analytics and Data Engineering, delivering impactful solutions and driving data-driven insights across projects.](With 2.5 years at Infosys as a System Engineer, I specialized in Data Analytics and Data Engineering, delivering impactful solutions and driving data-driven insights across projects.)
 
 - ⚡ Fun fact **I think I am funny – or at least my SQL queries are.**
 
