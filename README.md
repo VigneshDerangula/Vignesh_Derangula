@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **something cool 😉**
 
-- 🌱 I’m currently learning **Kafka and PySpark – for times when SQL isn’t fast enough and data isn’t big enough.**
+- 🌱 I’m currently learning **AI and Machine Learning – because teaching machines to think is way more fun than convincing humans! 💻🧠.**
 
 - 💬 Ask me about **SQL, Python, Power BI, or Excel – I query all day, pivot all night, and still find time to visualize some fun! 😄**
 
