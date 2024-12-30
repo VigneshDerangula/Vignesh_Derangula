@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vigneshderangula&label=Profile%20views&color=0e75b6&style=flat" alt="vigneshderangula" /> </p>
 
-- 🔭 I’m currently working on **something cool 😉**
+- 🔭 I’m working on **something cool 😉**
 
 - 🌱 I’m currently learning **AI and Machine Learning – because teaching machines to think is way more fun than convincing humans! 💻🧠.**
 
