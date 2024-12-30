@@ -9,11 +9,11 @@
 
 - 💬 Ask me about **SQL, Python, Power BI, or Excel – I query all day, pivot all night, and still find time to visualize some fun! 😄**
 
-- 📫 How to reach me **vigneshderangula@gmail.com**
+- 📫 Reach me out at **vigneshderangula@gmail.com**
 
 - 📄 Know about my experiences (With 2.5 years at Infosys as a System Engineer, I specialized in Data Analytics and Data Engineering, delivering impactful solutions and driving data-driven insights across projects.)
 
-- ⚡ Fun fact **I think I am funny – or at least my SQL queries are.**
+- ⚡ Fun fact **When you say 'Forward' or 'Back', your lips move in those directions..**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
