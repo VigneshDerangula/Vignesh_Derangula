@@ -11,7 +11,7 @@
 
 - 📫 Reach me out at **vigneshderangula@gmail.com**
 
-- 📄 Know about my experiences: With 2.8+ years of experience at Infosys and ZS Associates as a Data Analytics Engineer, I specialized in delivering impactful solutions, building scalable data pipelines, and enabling data-driven decision-making across cross-functional teams.
+- 📄 Know about my experiences: With 3.5+ years of experience at Infosys and ZS Associates as a Data Analytics Engineer, I specialized in delivering impactful solutions, building scalable data pipelines, and enabling data-driven decision-making across cross-functional teams.
 - 
 - ⚡ Fun fact **When you say 'Forward' or 'Back', your lips move in those directions..**
 
