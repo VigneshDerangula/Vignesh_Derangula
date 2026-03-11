@@ -9,7 +9,7 @@
   ╚═══╝  ╚═╝ ╚═════╝ ╚═╝  ╚═══╝╚══════╝╚══════╝╚═╝  ╚═╝
 ```
 
-### `$ whoami` → **Data Engineer · Analytics Engineer · Pipeline Architect**
+### `$ whoami` → **Data Engineer · Analytics Engineer · Pipeline Architect · Data Analyst**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Building+pipelines+that+don't+break+at+3AM+%F0%9F%9B%A0%EF%B8%8F;Turning+raw+data+into+decisions+%F0%9F%93%8A;Snowflake+%7C+AWS+%7C+SQL+%7C+Python+%7C+Power+BI;3.8%2B+years+of+making+data+actually+useful)](https://git.io/typing-svg)
 
@@ -29,9 +29,9 @@ class VigneshDerangula:
         self.location     = "Hyderabad, Telangana 🇮🇳"
         self.role         = "Data Engineer / Analytics Engineer"
         self.experience   = "3.8+ years"
-        self.current      = "ZS Associates"
+        self.current      = "ZS"
         self.prev         = "Infosys"
-        self.education    = "B.E. Computer Science — Sri Indu Institute"
+        self.education    = "B.Tech. Computer Science — Sri Indu Institute"
 
     def what_i_do(self):
         return [
